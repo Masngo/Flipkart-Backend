@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# React build
+build/
+dist/
+
+# Coverage reports
+coverage/
+
+# Other
+*.env.local
