@@ -91,12 +91,12 @@ MongoDB Connection Error?
 •	Ensure your IP is whitelisted in MongoDB Atlas.
 •	Double-check your MONGO_URI is valid.
 •	Use encoded special characters in your MongoDB password.
-________________________________________
+
 Future Improvements
 •	Admin & User roles
 •	Payment integration
 •	Product reviews & ratings
 •	Search and filter functionality
-________________________________________
+
 License
 This project is licensed under the MIT License.
